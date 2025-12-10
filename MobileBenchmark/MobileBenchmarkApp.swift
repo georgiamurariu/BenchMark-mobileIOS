@@ -11,7 +11,8 @@ import SwiftUI
 struct MobileBenchmarkApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
+
